@@ -8,3 +8,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for Github
 
 Output chỉnh sửa file README trực tiếp trên Github. Dòng này để tạo output cho việc pull code mới từ Github.
+
+Output cho lệnh: git diff. Câu lệnh này cho biết những thay đổi trên remote(origin)
