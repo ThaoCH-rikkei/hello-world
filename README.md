@@ -10,3 +10,5 @@ It now includes steps for Github
 Output chỉnh sửa file README trực tiếp trên Github. Dòng này để tạo output cho việc pull code mới từ Github.
 
 Output cho lệnh: git diff. Câu lệnh này cho biết những thay đổi trên remote(origin)
+
+Câu lệnh mới phục vụ việc kiểm tra lệnh git pull
