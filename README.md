@@ -12,3 +12,5 @@ Output chỉnh sửa file README trực tiếp trên Github. Dòng này để t�
 Output cho lệnh: git diff. Câu lệnh này cho biết những thay đổi trên remote(origin)
 
 Câu lệnh mới phục vụ việc kiểm tra lệnh git pull
+
+Sức mạnh của Tiềm thức. Tiềm thức biết mọi câu trả lời cho mọi câu hỏi, biết mọi cách giải quyết cho mọi vấn đề.
